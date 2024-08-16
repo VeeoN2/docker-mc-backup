@@ -1,3 +1,5 @@
+FORK INFO: Changed "save-all flush" to "save-all" to reduce lag spike durring backup. Use at your own risk as there is world flushing to disk durring backup
+
 [![Docker Pulls](https://img.shields.io/docker/pulls/itzg/mc-backup.svg)](https://hub.docker.com/r/itzg/mc-backup)
 [![Build](https://github.com/itzg/docker-mc-backup/actions/workflows/build.yml/badge.svg)](https://github.com/itzg/docker-mc-backup/actions/workflows/build.yml)
 [![Discord](https://img.shields.io/discord/660567679458869252?label=Discord&logo=discord)](https://discord.gg/DXfKpjB)
